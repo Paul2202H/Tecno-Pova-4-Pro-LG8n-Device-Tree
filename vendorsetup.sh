@@ -44,10 +44,10 @@ export OF_ALLOW_DISABLE_NAVBAR=0
 export OF_CLOCK_POS=1
 
 # maintainer 
-export OF_MAINTAINER_AVATAR="$(gettop)/device/tecno/LH8n/maintainer_avatar.png"
+export OF_MAINTAINER_AVATAR="$(gettop)/device/tecno/LG8n/maintainer_avatar.png"
 cp "${OF_MAINTAINER_AVATAR}" "$(gettop)/bootable/recovery/gui/theme/portrait_hdpi/images/Default/About/maintainer.png"
-export OF_MAINTAINER="Nazephyrus"
-export FOX_VARIANT="A15+"
+export OF_MAINTAINER="Valle"
+export FOX_VARIANT="A12+"
 export FOX_BUILD_TYPE="beta"
 
 # Important build settings
