@@ -4,10 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_PATH := device/tecno/LG8m
-
-TARGET_RECOVERY_DEVICE_DIRS := \
-    $(DEVICE_PATH)
+DEVICE_PATH := device/tecno/LG8m
 
 # Architecture
 TARGET_ARCH := arm64
